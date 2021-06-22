@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Learn to Live with Feeling Dumb`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `John William Davis`,
+      summary: `Interested in all things JavaScript, React, Node and Python related 🤓`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    description: `Thoughts and Reflections on React, MongoDB, Node, Python`,
+    siteUrl: `https://papadavis47.dev`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `papadavis47`,
     },
   },
   plugins: [

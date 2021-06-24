@@ -31,25 +31,35 @@ const Bio = () => {
   const social = data.site.siteMetadata?.social
 
   return (
-    <div className="bio">
-      <StaticImage
-        className="bio-avatar"
-        layout="fixed"
-        formats={["AUTO", "WEBP", "AVIF"]}
-        src="../images/iceweasel.jpg"
-        width={50}
-        height={50}
-        quality={95}
-        alt="Profile picture"
-      />
-      {author?.name && (
-        <p>
-          A <strong>Programming Blog</strong> by <strong>{author.name}</strong>{" "}
-          {author?.summary || null}
-          {` `}
-        </p>
-      )}
-    </div>
+    <>
+      <div className="bio">
+        <StaticImage
+          className="bio-avatar"
+          layout="fixed"
+          formats={["AUTO", "WEBP", "AVIF"]}
+          src="../images/iceweasel.jpg"
+          width={50}
+          height={50}
+          quality={95}
+          alt="Profile picture"
+        />
+        {author?.name && (
+          <p className="custom">
+            A <strong>Programming Blog</strong> by{" "}
+            <strong>{author.name}</strong> {author?.summary || null}
+            {` `}
+          </p>
+        )}
+      </div>
+      <p className="custom-anchor">
+        <a href={`https://twitter.com/${social.twitter}`}>
+          Follow me on Twitter &nbsp;
+        </a>
+        <span role="img" aria-label="Emoji checkmark">
+          ✅
+        </span>
+      </p>
+    </>
   )
 }
 

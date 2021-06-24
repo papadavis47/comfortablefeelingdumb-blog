@@ -52,7 +52,7 @@
   --fontSize-3: 1.44rem;
   --fontSize-4: 1.728rem;
   --fontSize-5: 2.074rem;
-  --fontSize-6: 2.488rem;
+  --fontSize-6: 2.788rem;
   --fontSize-7: 2.986rem;
   --color-primary: #005b99;
   --color-text: #2e353f;
@@ -91,6 +91,10 @@ hr {
   background: var(--color-accent);
   height: 1px;
   border: 0;
+}
+
+small {
+  font-size: var(--fontSize-0);
 }
 
 /* Heading */
@@ -242,8 +246,16 @@ a:focus {
 
 .global-wrapper {
   margin: var(--spacing-0) auto;
-  max-width: var(--maxWidth-wrapper);
+  max-width: var(--maxWidth-4xl);
   padding: var(--spacing-10) var(--spacing-5);
+}
+
+.custom {
+  margin-bottom: var(--spacing-4);
+}
+
+.custom-anchor {
+  margin-bottom: var(--spacing-12);
 }
 
 .global-wrapper[data-is-root-path="true"] .bio {
@@ -251,11 +263,11 @@ a:focus {
 }
 
 .global-header {
-  margin-bottom: var(--spacing-12);
+  margin-bottom: var(--spacing-16);
 }
 
 .main-heading {
-  font-size: var(--fontSize-7);
+  font-size: var(--fontSize-6);
   margin: 0;
 }
 
@@ -288,7 +300,7 @@ a:focus {
 
 .bio {
   display: flex;
-  margin-bottom: var(--spacing-16);
+  margin-bottom: var(--spacing-0);
 }
 
 .bio p {

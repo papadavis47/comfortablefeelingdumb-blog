@@ -246,12 +246,13 @@ a:focus {
 
 .global-wrapper {
   margin: var(--spacing-0) auto;
-  max-width: var(--maxWidth-4xl);
+  max-width: var(--maxWidth-3xl);
   padding: var(--spacing-10) var(--spacing-5);
 }
 
 .custom {
   margin-bottom: var(--spacing-4);
+  margin-top: var(--spacing-0);
 }
 
 .custom-anchor {
@@ -304,7 +305,7 @@ a:focus {
 }
 
 .bio p {
-  margin-bottom: var(--spacing-0);
+  margin-bottom: var(--spacing-2);
 }
 
 .bio-avatar {

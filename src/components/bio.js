@@ -48,17 +48,15 @@ const Bio = () => {
             A <strong>Programming Blog</strong> by{" "}
             <strong>{author.name}</strong> {author?.summary || null}
             {` `}
+            <a href={`https://twitter.com/${social.twitter}`}>
+              &nbsp; Follow me on Twitter &nbsp;
+              <span role="img" aria-label="Emoji checkmark">
+                ✅
+              </span>
+            </a>
           </p>
         )}
       </div>
-      <p className="custom-anchor">
-        <a href={`https://twitter.com/${social.twitter}`}>
-          Follow me on Twitter &nbsp;
-        </a>
-        <span role="img" aria-label="Emoji checkmark">
-          ✅
-        </span>
-      </p>
     </>
   )
 }

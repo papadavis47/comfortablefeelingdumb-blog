@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Comfortable Feeling Dumb 🤔`,
+    title: `Comfortable Feeling Dumb 😎`,
     author: {
       name: `John William Davis`,
       summary: ` - Based in Seattle - I am interested in all things React, Node, Python and Vim 🤓`,

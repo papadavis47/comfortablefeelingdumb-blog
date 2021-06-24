@@ -1,6 +1,6 @@
 ---
-title: My Second Post!
-date: "2015-05-06T23:46:37.121Z"
+title: The Different Dialects of React
+date: "2021-06-21"
 ---
 
 Wow! I love blogging so much already.

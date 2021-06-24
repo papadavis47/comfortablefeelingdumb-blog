@@ -1,11 +1,11 @@
 module.exports = {
   siteMetadata: {
-    title: `Learn to Live with Feeling Dumb`,
+    title: `Being Comfortable Feeling Dumb 😃`,
     author: {
       name: `John William Davis`,
-      summary: `Interested in all things JavaScript, React, Node and Python related 🤓`,
+      summary: ` - Based in Seattle - Interested in all things React, Node and Python 🤓`,
     },
-    description: `Thoughts and Reflections on React, MongoDB, Node, Python`,
+    description: `Thoughts and Reflections on React, MongoDB, Node, Python 🤓`,
     siteUrl: `https://papadavis47.dev`,
     social: {
       twitter: `papadavis47`,

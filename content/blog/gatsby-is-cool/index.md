@@ -23,8 +23,14 @@ Oh, and here's a great quote from this Wikipedia on
 
 You can also write code blocks here!
 
-```js
+```javascript
 const saltyDuckEgg = "chinese preserved food product"
+let linda = "daughter"
+const diego = num => {
+  return num + 11
+}
+
+let wife = "Maria"
 ```
 
 | Number | Title                                    | Year |

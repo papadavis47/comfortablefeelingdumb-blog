@@ -20,7 +20,7 @@ For as long as I can remember I have been fascinated by extreme sport athletes.
 
 People like
 Tour de France cyclists, big wave surfers, extreme skiers, free solo rock climbers, or
-mountaineers summiting K2 are very interesting.
+mountaineers summiting K2 are very interesting humans.
 
 How, I have often wondered, do they keep their composure during
 activities that would overwhelm and overload most people? What is the mindset? And does that mindset
@@ -36,7 +36,7 @@ and find peace and satisfaction in the middle of it?
 
 These activities probably often elicit a [flow state](<https://en.wikipedia.org/wiki/Flow_(psychology)>) - which brings joy and elation and a feeling of victory. And programming can do this too.
 
-Over time, I imagine the practitioners of anything extreme have learned to become comfortable with the pain, fear, heat, cold, or altitude. Perhaps they make peace with discomfort and then simply go about their business - knowing that there are rewards to their actions - even while the discomfort exists.
+Over time, I imagine the practitioners of anything extreme have learned to become comfortable with the pain, exhaustion, fear, heat, cold, or altitude. Perhaps they make peace with discomfort and then simply go about their business - knowing that there are rewards to their actions - even while the discomfort exists.
 
 #### Not exactly pain - but close 😕
 

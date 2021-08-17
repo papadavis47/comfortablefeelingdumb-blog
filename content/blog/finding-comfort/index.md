@@ -12,7 +12,7 @@ It is rewarding with small victories scattered throughout.
 
 It is even quite often fun.
 
-But is is not easy at all and it is often uncomfortable.
+But it is not easy at all and it is often uncomfortable.
 
 #### Growing as a programmer - an extreme sport 🏂🏼
 

@@ -113,4 +113,4 @@ That is programming and I am at home there.
 
 It is the only way to move forward.
 
-And moving forward is the biggest victory while writing code 🥇
+And moving forward is the biggest victory 🥇

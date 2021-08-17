@@ -49,8 +49,7 @@ after error message, or remember a piece of information that I have either appli
 not recall in the moment - it can make me feel like I am a dumb person. Not fit for the task I
 am engaged in.
 
-And considering the vastness of computer science and programming in general - who is
-is not operating on the edge of their knowledge if they are serious about building things with code?
+And considering the vastness of computer science and programming in general - who is not operating on the edge of their knowledge if they are serious about building things with code?
 
 Sure, I know more and I can do more than I did last month or even yesterday. And I know A GREAT DEAL MORE
 than I did last year, but the amount of things I do not know far, far outweighs the things that I do know.

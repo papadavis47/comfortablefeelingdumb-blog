@@ -52,7 +52,7 @@ am engaged in.
 And considering the vastness of computer science and programming in general - who is not operating on the edge of their knowledge if they are serious about building things with code?
 
 Sure, I know more and I can do more than I did last month or even yesterday. And I know A GREAT DEAL MORE
-than I did last year, but the amount of things I do not know far, far outweighs the things that I do know.
+than I did last year, but the amount of things I do not know far, far outweigh the things that I do know.
 
 A lesson I have learned for myself, over nearly four years since I wrote my first line of code - is
 that I need to be **comfortable with feeling dumb**.
@@ -112,4 +112,4 @@ That is programming and I am at home there.
 
 It is the only way to move forward.
 
-And moving forward is the biggest victory when hitting a wall 🥇
+And moving forward is the biggest victory when hitting a wall on a task 🥇

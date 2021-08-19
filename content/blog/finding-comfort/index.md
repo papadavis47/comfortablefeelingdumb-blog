@@ -1,5 +1,5 @@
 ---
-title: Finding Comfort
+title: Finding Comfort 🌻
 date: "2021-08-16"
 description: "First post to kick things off - Explaining the title of this blog 🙂 💯"
 ---

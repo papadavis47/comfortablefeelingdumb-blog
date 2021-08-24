@@ -16,7 +16,7 @@ Optimizing images using `gatsby-plugin-image` becomes much, much easier.
 
 In BETA release prior to when Gatsby v3 was shipped - and generally available since March 2021 - this plugin has a very straightforward API.
 
-I have found working with it to be a great developer experience.
+I have found working with it to be a great developer experience 👍
 
 The plugin comes with two different components, `<StaticImage />` and a rewritten `<GatsbyImage />`.
 

@@ -51,7 +51,7 @@ Example from my recent project code:
 />
 ```
 
-The following is a GraphQL query that gathered some images some image nodes from a local folder:
+The following is a GraphQL query that gathers some image nodes from a local folder:
 
 ```js
 export const data = graphql`
@@ -69,7 +69,7 @@ export const data = graphql`
 `
 ```
 
-Which I then mapped over in a page component to display like so:
+Which I then map over in a page component - to display like so:
 
 ```js
 // project styled using css modules

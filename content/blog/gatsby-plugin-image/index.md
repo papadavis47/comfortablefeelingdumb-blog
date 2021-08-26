@@ -24,7 +24,7 @@ There are also some helper functions - including `getImage()` and `getSrc()` - w
 
 Both StaticImage and GatsbyImage components drastically reduce the "over-the-wire" size of images compared to using a simple `<img>` tag.
 
-`gatsby-image-plugin` uses some brilliant abstractions to create source sets of your remote or local images. Similarly to a regular `<img>` element - you set an image with a `src` prop on your component. Various sizes and formats are created under the hood - in order to serve the most optimized version based on the client device and screen size.
+`gatsby-image-plugin` uses some brilliant abstractions to create source sets of your remote or local images. Just as with a regular `<img>` element - you similarly set an image with a `src` prop on your component. Various sizes and formats are created under the hood - in order to serve the most optimized version based on the client device and screen size.
 
 More info about how this is accomplished can be found at the [Gatsby Conceptual Guides](https://www.gatsbyjs.com/docs/conceptual/using-gatsby-image/).
 

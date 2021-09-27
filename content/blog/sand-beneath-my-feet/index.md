@@ -6,9 +6,9 @@ description: "Finding my focus in the vastness of programming 🌠"
 
 ## A long swim in a vast ocean 🌊 🐚 🦈 🦑
 
-I wrote my first line of code ever in October of 2017. It was while going through a tutorial on [Khan Academy](https://www.khanacademy.org/) - playing around in a browser based editor - using JavaScript - drawing shapes and round smiley faces and googly eyes - and filling them with color.
+I wrote my first line of code ever in October of 2017. I did so while going through a tutorial on [Khan Academy](https://www.khanacademy.org/) - playing around in a browser based editor - using JavaScript - drawing shapes and round smiley faces and googly eyes - and filling them with color.
 
-That is how I dived into the ocean of programming.
+That is how I jumped into the ocean of programming.
 
 ![Ocean Water](./anastasia-taioglou-unsplash.jpg)
 
@@ -20,23 +20,33 @@ Maybe a month later - at [FreeCodeCamp](https://www.freecodecamp.org/) - I learn
 
 Next came learning the basics of programming in Python.
 
-I had read somewhere that Python was a good first language for people first learning programming.
+I had read somewhere that Python was a good language for people first learning programming.
 
-So, JavaScript and web development took a backseat for a time - while I struggled with some coding exercises - without context or any real visual feedback outside of the Python REPL in my terminal. I did not know about Flask or Django at the time - nor did I really understand what the "backend" was, either.
+So, JavaScript and web development took a backseat for a time - while I struggled with some coding exercises - without context or any real visual feedback outside of the Python REPL in my terminal. I did not know about Flask or Django at the time - nor did I really understand what a "backend" was, either.
 
-Soon I became frustrated with understanding where code blocks ended and began with Python’s strict spacing syntax - so I switched back to JavaScript and it’s curly brace syntax.
+Soon I became frustrated with understanding where code blocks ended and began with Python’s strict indentation syntax - so I switched back to JavaScript and it’s curly brace syntax.
 
 Eventually, the frustration with Python wore off and I decided to give it another chance.
 
 This went on for several months - a time which included learning some Bash - as well as Git and GitHub.
 
-I did not know what kind of programming I wanted to focus on.
+I had no idea what kind of programming I wanted to focus on.
 
-The world of programming is huge - and I knew so little. I had an idea that I wanted to learn the craft - for a variety of reasons, including: to make a better living, find work that I could truly grow with and to have more and better professional opportunities. I wanted work that I enjoyed and that offered me satisfaction - including the ability to do it anywhere in the world and at basically any age. My job at the time was not offering me those things. And I knew that I enjoyed programming - difficult as it was.
+The world of programming is huge - and I knew so little.
+
+I had an idea that I wanted to learn the craft - for a variety of reasons including:
+
+1. **To make a better living**
+2. **To find work that I could truly grow with**
+3. **To have more and better professional opportunities**
+
+I wanted work that I enjoyed and that offered me satisfaction - including the ability to do it anywhere in the world and at basically any age.
+
+My job at the time was not offering me those things. And I knew that I enjoyed programming - difficult as it was.
 
 Figuring out what would be my focus - the part of the vastness I would truly master - was like asking: _“Which neighborhood in Paris would you like to live in?”_
 
-**I have never been to Paris.** I speak two or three words in French. I do not have any friends living in France. I have **no friggin' clue** about which neighborhood suits me.
+**I have never been to Paris.** I speak two or three words in French. I do not have any friends living in France. I have **no freakin' clue** about which neighborhood suits me.
 
 ![Paris from above](./rodrigo-kugnharski-unsplash.jpg)
 
@@ -54,11 +64,11 @@ More recently, I narrowed my vision down even further to the frontend of the sta
 
 ## Closer to DRY land 🏖 🙏
 
-I wrote my first lines of React in a coding bootcamp - but I did not fall in love with it until after bootcamp. My own experience of bootcamp was that it was such a fast paced, stressful environment (particularly at the beginning of the COVID 19 pandemic) that I felt we only had time to go into the surface of React library and ecosystem during the few weeks we worked with it.
+I wrote my first lines of React in a coding bootcamp - but I did not fall in love with it until after bootcamp. My own experience in bootcamp was that it was such a fast paced, stressful environment ( particularly at the beginning of the COVID 19 pandemic ) that I felt we only had time to go into the surface of the React library and ecosystem - during the few weeks we worked with it.
 
-React has a steep learning curve, in my opinion. We spent several hours on Day 1 learning class based components - and I spent the evening practicing that syntax and trying to grasp component lifecycle methods - then we immediately switched to hooks and function based components on Day 2. What made it even harder is that I did not have experience with ES6 Object and Array destructuring or with ES6 module syntax.
+Like Vim, React has a pretty steep learning curve in the beginning, in my experience. We spent several hours on Day 1 learning class based components - and I spent that evening practicing class based component syntax and trying to grasp component lifecycle methods - then we immediately switched to hooks and function based components on Day 2. What made it even harder is that I did not have experience with ES6 Object and Array destructuring or with ES6 module syntax.
 
-Learning React without a solid base of object destructuring or module imports and exports is like scuba diving at night without a light.
+Learning React without a solid base of understanding for object destructuring or module imports and exports is like scuba diving at night without a light 😨
 
 ---
 
@@ -86,11 +96,11 @@ React is a wonderful library. And the community that has built up around it is b
 
 The world of React is only one island in the Frontend JavaScript archipelago - but for me it is a rich island and one that I intend to explore until I know every inch of it.
 
-The React ecosystem ( including [Next.js](https://nextjs.org), [Gatsby](https://www.gatsbyjs.com/), and the incredible number of libraries that have been built around the concept of the React component ) is like finally being able to stand up in the water of a island beach and walk toward the shore.
+Commiting myself to the React ecosystem ( including [Next.js](https://nextjs.org), [Gatsby](https://www.gatsbyjs.com/), and the incredible number of [libraries](https://github.com/enaqx/awesome-react) that have been built around the concept of the React component ) is like finally being able to stand up in the water of a island beach and walk toward the shore.
 
 And this island has beautiful things on it. It has natural resources with which I can build all sorts of wonderful and practical creations with.
 
-And I am far from alone on this island.
+**I am far from alone on this island.**
 
 Which, to me at this point in my journey as a developer, is very comforting. Especially after having been swimming in a huge ocean for a long time prior to touching sand.
 
@@ -125,6 +135,6 @@ I have no doubt they are wonderful, also, and maybe I will devote time to learni
 
 But for now I am going to stay on the island I am currently on and really take advantage of the dry land.
 
-Eventually, a programmer has to find their focus and walk on sand 🏝️ 🚶🏼
+A programmer has to find their focus and walk on sand eventually 🏝️ 🚶🏼
 
-I certainly do, anyway 🙂
+I have learned, perhaps the hard way, that I certainly do 🙂

@@ -1,33 +1,82 @@
 ---
-title: "Sand Beneath My Feet 🏝️ - React in 2021"
+title: "Sand Beneath My Feet 🏝️ - The React Ecosystem"
 date: "2021-09-27"
 description: "Finding my focus in the vastness of programming 🌠"
 ---
 
 ## A long swim in a vast ocean 🌊 🐚 🦈 🦑
 
-I wrote my first line of code ever in October of 2017. It was while using [Khan Academy](https://www.khanacademy.org/) - playing around in a browser based editor with JavaScript - to draw some shapes and fill them with color.
+I wrote my first line of code ever in October of 2017. It was while going through a tutorial on [Khan Academy](https://www.khanacademy.org/) - playing around in a browser based editor - using JavaScript - drawing shapes and round smiley faces and googly eyes - and filling them with color.
 
-Maybe a month later - at [FreeCodeCamp](https://www.freecodecamp.org/) I learned some HTML and CSS. Enough to build a small web page. For a challenge - after a guided tutorial - the assignment was to build a single page tribute website tribute - the subject being someone living or dead - famous or unknown.
+That is how I dived into the ocean of programming.
+
+![Ocean Water](./anastasia-taioglou-unsplash.jpg)
+
+Photo by <a href="https://unsplash.com/@thenata?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Anastasia Taioglou</a> on <a href="https://unsplash.com/s/photos/ocean?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+
+Maybe a month later - at [FreeCodeCamp](https://www.freecodecamp.org/) - I learned some HTML and CSS. Enough to build a small web page. For the challenge part of the curriculum - after a guided tutorial - the assignment was to build a single page tribute website - the subject being someone living or dead - famous or unknown.
 
 [This what I built](https://papadavis47.github.io/my_sandbox/) 🤭
 
 Next came learning the basics of programming in Python. I had read somewhere that Python was a good first language for people first learning programming. So, JavaScript and web dev took a backseat for a time - while I struggled with some coding exercises - without context or any real visual feedback outside of the Python REPL in my terminal.
 
-Soon I became frustrated with understanding where code blocks ended and began with Python’s strict spacing syntax - so I switched back to JavaScript and it’s curly brace syntax. Until the frustration wore off and I decided to give Python another chance.
+Soon I became frustrated with understanding where code blocks ended and began with Python’s strict spacing syntax - so I switched back to JavaScript and it’s curly brace syntax.
 
-This went on for several months - time which included learning some Bash - as well as Git and GitHub.
+Eventually, the frustration with Python wore off and I decided to give it another chance.
 
-I still did not know what kind of programming I wanted to do. The world of programming is huge - and I knew so little. I had an idea that I wanted to learn this craft - in order to make a better living, find work that I could truly grow with and have more professional opportunities that my job at the time. I knew that I enjoyed doing it - difficult as it was. Figuring out what would be my focus - the part of the vastness I would truly master - was like asking: “Which neighborhood in Paris would you like to live in?”
+This went on for several months - a time which included learning some Bash - as well as Git and GitHub.
 
-I have never been to Paris. I speak two or three words in French. I do not have any friends living in France. I have **no friggin' clue** about which neighborhood suits me. Still don't.
+I did not know what kind of programming I wanted to focus on.
 
-Programming was like that for me for quite some time. I just kept cruising neighborhoods, talking with people in each one, reading a lot about what I was seeing, checking everything out.
+The world of programming is huge - and I knew so little. I had an idea that I wanted to learn the craft - for a variety of reasons, including: to make a better living, find work that I could truly grow with and to have more and better professional opportunities. I wanted work that I enjoyed and that offered me satisfaction - including the ability to do it anywhere in the world and at basically any age. My job at the time was not offering me those things. And I knew that I enjoyed programming - difficult as it was.
 
-## DRY land 🏖 🙏
+Figuring out what would be my focus - the part of the vastness I would truly master - was like asking: _“Which neighborhood in Paris would you like to live in?”_
 
-I wrote my first lines of React in a coding bootcamp - but I did not fall in love with it until after bootcamp.
-Now, I am head over heels in love with it 💕
+**I have never been to Paris.** I speak two or three words in French. I do not have any friends living in France. I have **no friggin' clue** about which neighborhood suits me.
+
+![Paris from above](./rodrigo-kugnharski-unsplash.jpg)
+
+Photo by <a href="https://unsplash.com/@kugnharski?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Rodrigo Kugnharski</a> on <a href="https://unsplash.com/s/photos/paris?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+
+I still don't, actually 😉
+
+Programming was like that for me for quite some time.
+
+I just kept cruising neighborhoods, talking with people in each one, reading a lot about what I was seeing, checking everything out.
+
+Eventually, after two years or so, I settled on the _arrondissement_ or **district** of web development. I was narrowing it down - albeit slowly.
+
+More recently, I narrowed my vision down even further to the frontend of the stack. That is what brings me the most joy and sense of accomplishment when I complete a task. For now, anyway. I am always open to evolving. But for now, I call myself a frontend web developer - and I happy to be focusing on this side of things 😄
+
+## Closer to DRY land 🏖 🙏
+
+I wrote my first lines of React in a coding bootcamp - but I did not fall in love with it until after bootcamp. My own experience of bootcamp was that it was such a fast paced, stressful environment (particularly at the beginning of the COVID 19 pandemic) that I felt we only had time to go into the surface of React library and ecosystem during the few weeks we worked with it.
+
+React has a steep learning curve, in my opinion. We spent several hours on Day 1 learning class based components - and I spent the evening practicing that syntax and trying to grasp component lifecycle methods - then we immediately switched to hooks and function based components on Day 2. What made it even harder is that I did not have experience with ES6 Object and Array destructuring or with ES6 module syntax.
+
+Learning React without a solid base of object destructuring or module imports and exports is like scuba diving at night without a light.
+
+---
+
+_TIP FOR PEOPLE ENTERING CODING BOOTCAMP:_
+
+**Learn ES6 syntax and understand the differences between server JavaScript environments like Node and the browser based environment. I did not get that until bootcamp and I could have saved myself some grief by learning it before the 12 weeks started.**
+
+**Also, I would have been well served to have become familiar with Promises and async code.**
+
+_These things confused me to no end during bootcamp and **I felt 1000% better about JavaScript and React** when I became comfortable with the concepts._
+
+---
+
+## It got better 🤟🏼
+
+Post bootcamp, though, I am head over heels in love with React 💕
+
+And I am making it my home for the foreseeable future 🏡
+
+![Beach in the Tropics](./jessica-pamp-unsplash.jpg)
+
+Photo by <a href="https://unsplash.com/@yessijes?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Jessica Pamp</a> on <a href="https://unsplash.com/s/photos/beach?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
 React is a wonderful library. And the community that has built up around it is brilliant and full of energy.
 
@@ -41,13 +90,15 @@ And I am far from alone on this island. Far from it. Which is very comforting - 
 
 # Some good neighbors
 
-Kent C. Dodds, Cassidy Williams, Josh Comeau, Ali Spittell, Guillermo Rauch, Tanner Linsley, _the D3 guy I will write more about later_ - these are just a few of the accomplished and influential inhabitants of the React island.
+In no particular order:
 
-_Notes:_
-Not understanding the difference between browser code and node code - server side and client side JS.
+- [Kent C. Dodds](https://kentcdodds.com/)
+- [Cassidy Williams](https://twitter.com/cassidoo)
+- [Josh Comeau](https://www.joshwcomeau.com/)
+- [Ali Spittell](https://welearncode.com/)
+- [Guillermo Rauch](https://rauchg.com/)
+- [Tanner Linsley](https://github.com/tannerlinsley)
 
-Also, not understanding the ES6 Modules or Object and Array destructuring - at all
+These are just a few well known, accomplished and influential inhabitants of the React island.
 
-Also, having no clue about async code and promises
-
-These were the challenges with JS
+But there are many, many more - and many satisfying moments to be had.

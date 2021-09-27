@@ -72,7 +72,7 @@ Learning React without a solid base of understanding for object destructuring or
 
 ---
 
-_TIP FOR PEOPLE ENTERING CODING BOOTCAMP:_
+_TIPS FOR PEOPLE ENTERING CODING BOOTCAMP:_
 
 **Learn ES6 syntax and understand the differences between server JavaScript environments like Node and the browser based environment. I did not get that until bootcamp and I could have saved myself some grief by learning it before the 12 weeks started.**
 

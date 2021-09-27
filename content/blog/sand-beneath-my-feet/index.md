@@ -88,7 +88,9 @@ And this island has beautiful things on it. It has natural resources with which 
 
 And I am far from alone on this island. Far from it. Which is very comforting - especially after having been swimming in a huge ocean for a long time prior to touching sand.
 
-# Some good neighbors
+## Some Good Neighbors 🎉
+
+The React ecosystem has amazing creators contributing to it on a daily basis.
 
 In no particular order:
 
@@ -99,6 +101,20 @@ In no particular order:
 - [Guillermo Rauch](https://rauchg.com/)
 - [Tanner Linsley](https://github.com/tannerlinsley)
 
-These are just a few well known, accomplished and influential inhabitants of the React island.
+These are just a few well known, accomplished and influential participants.
 
 But there are many, many more - and many satisfying moments to be had.
+
+There are some amazing resources out there to thoroughly learn React. Including Kent C Dodd's [Epic React course](https://epicreact.dev) - which I am currently working through and about which I will have far more to write about in future blog posts.
+
+## Glad to Be Home 🙏
+
+Every programmer should eventually find the things that they want to dive deep into and become expert in. The ocean of knowledge is just too vast not to.
+
+Sometimes I read a bit about other solutions for building user interfaces - such as [Vue](https://vuejs.org/) or [Svelte](https://svelte.dev/). I have no doubt they are wonderful, also, and maybe I will devote time to learning and using them in the future - particularly if I am employed by a company that is commited to them.
+
+But for now I am going to stay on the island I am currently on and really take advantage of the dry land.
+
+Eventually, a programmer has to find their focus and walk on sand 🏝️ 🚶🏼
+
+I certainly do, anyway 🙂

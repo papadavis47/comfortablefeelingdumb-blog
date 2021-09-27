@@ -18,7 +18,11 @@ Maybe a month later - at [FreeCodeCamp](https://www.freecodecamp.org/) - I learn
 
 [This what I built](https://papadavis47.github.io/my_sandbox/) 🤭
 
-Next came learning the basics of programming in Python. I had read somewhere that Python was a good first language for people first learning programming. So, JavaScript and web dev took a backseat for a time - while I struggled with some coding exercises - without context or any real visual feedback outside of the Python REPL in my terminal.
+Next came learning the basics of programming in Python.
+
+I had read somewhere that Python was a good first language for people first learning programming.
+
+So, JavaScript and web development took a backseat for a time - while I struggled with some coding exercises - without context or any real visual feedback outside of the Python REPL in my terminal. I did not know about Flask or Django at the time - nor did I really understand what the "backend" was, either.
 
 Soon I became frustrated with understanding where code blocks ended and began with Python’s strict spacing syntax - so I switched back to JavaScript and it’s curly brace syntax.
 
@@ -86,7 +90,9 @@ The React ecosystem ( including [Next.js](https://nextjs.org), [Gatsby](https://
 
 And this island has beautiful things on it. It has natural resources with which I can build all sorts of wonderful and practical creations with.
 
-And I am far from alone on this island. Far from it. Which is very comforting - especially after having been swimming in a huge ocean for a long time prior to touching sand.
+And I am far from alone on this island.
+
+Which, to me at this point in my journey as a developer, is very comforting. Especially after having been swimming in a huge ocean for a long time prior to touching sand.
 
 ## Some Good Neighbors 🎉
 
@@ -105,13 +111,17 @@ These are just a few well known, accomplished and influential participants.
 
 But there are many, many more - and many satisfying moments to be had.
 
-There are some amazing resources out there to thoroughly learn React. Including Kent C Dodd's [Epic React course](https://epicreact.dev) - which I am currently working through and about which I will have far more to write about in future blog posts.
+There are some amazing resources out there to thoroughly learn React.
+
+Including Kent C Dodd's [Epic React course](https://epicreact.dev) - which I am currently working through and about which I will have far more to write about in future blog posts.
 
 ## Glad to Be Home 🙏
 
 Every programmer should eventually find the things that they want to dive deep into and become expert in. The ocean of knowledge is just too vast not to.
 
-Sometimes I read a bit about other solutions for building user interfaces - such as [Vue](https://vuejs.org/) or [Svelte](https://svelte.dev/). I have no doubt they are wonderful, also, and maybe I will devote time to learning and using them in the future - particularly if I am employed by a company that is commited to them.
+Sometimes I read a bit about other solutions for building user interfaces - such as [Vue](https://vuejs.org/) or [Svelte](https://svelte.dev/).
+
+I have no doubt they are wonderful, also, and maybe I will devote time to learning and using them in the future - particularly if I am employed by a company that is commited to them.
 
 But for now I am going to stay on the island I am currently on and really take advantage of the dry land.
 

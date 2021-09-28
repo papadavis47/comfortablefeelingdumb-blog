@@ -16,7 +16,7 @@ Photo by <a href="https://unsplash.com/@thenata?utm_source=unsplash&utm_medium=r
 
 Maybe a month later - at [FreeCodeCamp](https://www.freecodecamp.org/) - I learned some HTML and CSS. Enough to build a small web page. For the challenge part of the curriculum - after a guided tutorial - the assignment was to build a single page tribute website - the subject being someone living or dead - famous or unknown.
 
-[This what I built](https://papadavis47.github.io/my_sandbox/) 🤭
+[This is what I built](https://papadavis47.github.io/my_sandbox/) 🤭
 
 Next came learning the basics of programming in Python.
 

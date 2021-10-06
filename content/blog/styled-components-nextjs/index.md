@@ -26,13 +26,13 @@ When I run the command `yarn create next-app` **Next.js** defaults to using a [c
 
 The **Next.js** command line tool will create a `styles` folder containing a `Home.module.css` file - which is imported into the `pages/index.js` file.
 
-It will also create a `globals.css` file - which is imported into your `pages/_app.js` file.
+It will also create a `globals.css` file - which is imported into the `pages/_app.js` file.
 
-The first step after scaffolding the app/site with the CLI tool is to `cd` into the root of your project and install the required packages for **styled-components**:
+The first step, after scaffolding the project with the CLI tool, is to `cd` into the root of the project and install the required packages for **styled-components**:
 
 `yarn add babel-plugin-styled-components styled-components`
 
-I then create a `.babelrc` file at the root - with the following contents:
+Then create a `.babelrc` file at the root - with the following contents:
 
 ```js
 
@@ -52,7 +52,7 @@ I then create a `.babelrc` file at the root - with the following contents:
 
 ```
 
-The next step is to create a `_document.js` file in your `pages` directory and add the following code:
+The next step is to create a `_document.js` file in the `pages` directory and add the following code:
 
 ```js
 import Document from "next/document"
@@ -94,11 +94,11 @@ Here is a link to the [documentation](https://styled-components.com/docs/advance
 
 ## Choices After Setup
 
-Now that I have the the dependencies installed - `.babelrc` configured - and the provided code in a `pages/_document.js` file - I can begin using styled-components as I would in any other React project.
+Now that we have the the dependencies installed - `.babelrc` configured - and the provided code in a `pages/_document.js` file - we can begin using styled-components as I would in any other React project.
 
-Of course, I no longer need `Home.module.css` file in the `styles` folder - so I deleted that and the related import inside `index.js` - along with some other cleanup of the boilerplate code.
+Of course, we no longer need `Home.module.css` file in the `styles` folder - so we can delete that and the related import inside `index.js` - along with some other cleanup of the boilerplate code.
 
-I can choose to still use `styles/globabls.css` and keep the related import inside `pages/_app.js` - or I can simply delete those too and create my own global styles with the `createGlobalStyle` API from styled-components.
+We can choose to still use `styles/globabls.css` and keep the related import inside `pages/_app.js` - or we can simply delete those too and create our own global styles with the `createGlobalStyle` API from styled-components.
 
 I have used both options and it is simply a matter of preference ⭐
 

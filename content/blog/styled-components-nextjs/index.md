@@ -1,108 +1,107 @@
 ---
 title: "Using styled-components in a Next.js project 🛠️"
 date: "2021-10-06"
-description: "How to setup a Next.js 11 project for styled-components 🔧"
+description: "How to setup a Next.js project for styled-components 🔧"
 ---
 
-Lately, for personal projects, I have been using Next.js and it has been great. I also recently began learning the [styled-components](https://styled-components.com/) library.
+Lately, for personal projects, I have been using **Next.js** and it is wonderful 🚀
 
-For a [“digital garden”](https://papadavis47.dev) that I began working on just a few days ago - I decided I wanted to combine the two.
+I also recently began learning the [styled-components](https://styled-components.com/) library.
+
+For a [“digital garden”](https://papadavis47.dev) that I began working on a few days ago - I decided I wanted to combine the two.
 
 ![Next.js from Undraw](./undraw_next_js.png)
 
 ## Just a Bit of Prep Involved
 
-When I run the command `yarn create next-app` in my terminal Next defaults to using a [css-modules](https://github.com/css-modules/css-modules) solution.
+An easy way to begin a **Next.js** project is to use the following command in a terminal:
 
-The Next command line tool will create a `styles` folder containing a `Home.module.css` file - which is then imported into the `index.js` file. It will also create a `globals.css` file - which is imported into your `pages/_app.js` file.
+`npx create-next-app <NameOfProject>`
 
-## The first thing I noticed was the speed increase 🏎️
+I happen to prefer working with the [**yarn**](https://classic.yarnpkg.com/lang/en/) package manager, which I have installed globally, so I run the following:
 
-Optimizing images using `gatsby-plugin-image` becomes much, much easier.
+`yarn create next-app <NameOfProject>`
 
-In BETA release prior to when Gatsby v3 was shipped - and generally available since March 2021 - this plugin has a very straightforward API.
+When I run the command `yarn create next-app` **Next.js** defaults to using a [css-modules](https://github.com/css-modules/css-modules) solution.
 
-I have found working with it to be a great developer experience 👍
+The **Next.js** command line tool will create a `styles` folder containing a `Home.module.css` file - which is imported into the `pages/index.js` file.
 
-The plugin comes with two different components, `<StaticImage />` and a rewritten `<GatsbyImage />`.
+It will also create a `globals.css` file - which is imported into your `pages/_app.js` file.
 
-There are also some helper functions - including `getImage()` and `getSrc()` - which are detailed thoroughly in the [docs](https://www.gatsbyjs.com/plugins/gatsby-plugin-image/).
+The first step after scaffolding the app/site with the CLI tool is to `cd` into the root of your project and install the required packages for **styled-components**:
 
-Both StaticImage and GatsbyImage components drastically reduce the "over-the-wire" size of images compared to using a simple `<img>` tag.
+`yarn add babel-plugin-styled-components styled-components`
 
-`gatsby-image-plugin` uses some brilliant abstractions to create source sets of your remote or local images. Just as with a regular `<img>` element - you similarly set an image with a `src` prop on your component. Various sizes and formats are created under the hood - in order to serve the most optimized version based on the client device and screen size.
-
-More info about how this is accomplished can be found at the [Gatsby Conceptual Guides](https://www.gatsbyjs.com/docs/conceptual/using-gatsby-image/).
-
-The new plugin was designed to take advantage of the recent [WebPImage standard](https://developers.google.com/speed/webp) as well as [AVIF images](https://netflixtechblog.com/avif-for-next-generation-image-coding-b1d75675fe4) - a brand new format used at Netflix, Google and several other large companies with gigantic websites. The AVIF format offers better sizes and quality over jpg or other standard file types.
-
-## The next thing I noticed were the customization options 😄
-
-Props are added manually to the component in the case of `<StaticImage />`, and they are added dynamically through data gathered from a GraphQL query if using the `<GatsbyImage />` option.
-
-There is a long list of options to customize how your images render - including `layout`, `aspectRatio`, `placeholder`, `formats`, etc.
-
-All prop options can be found at the [Gatsby-Image resource guide](https://www.gatsbyjs.com/docs/reference/built-in-components/gatsby-plugin-image/).
-
-Example from my recent project code:
+I then create a `.babelrc` file at the root - with the following contents:
 
 ```js
-<StaticImage
-  src="../images/john.jpg"
-  alt="A self portrait in a rocking chair"
-  width={700}
-  placeholder="blurred"
-  transformOptions={{ grayscale: true }}
-  imgClassName={styles.pic}
-/>
+
+// In .babelrc at the root of project
+
+{
+  "presets": ["next/babel"],
+  "plugins": [
+    [
+      "styled-components",
+      {
+        "ssr": true
+      }
+    ]
+  ]
+}
+
 ```
 
-The following is a GraphQL query that gathers some image nodes from a local folder:
+The next step is to create a `_document.js` file in your `pages` directory and add the following code:
 
 ```js
-export const data = graphql`
-  {
-    allFile(filter: { sourceInstanceName: { eq: "instagram" } }) {
-      nodes {
-        id
-        name
-        childImageSharp {
-          gatsbyImageData(height: 300, width: 300, layout: FIXED)
-        }
+import Document from "next/document"
+import { ServerStyleSheet } from "styled-components"
+
+export default class MyDocument extends Document {
+  static async getInitialProps(ctx) {
+    const sheet = new ServerStyleSheet()
+    const originalRenderPage = ctx.renderPage
+
+    try {
+      ctx.renderPage = () =>
+        originalRenderPage({
+          enhanceApp: App => props => sheet.collectStyles(<App {...props} />),
+        })
+
+      const initialProps = await Document.getInitialProps(ctx)
+      return {
+        ...initialProps,
+        styles: (
+          <>
+            {initialProps.styles}
+            {sheet.getStyleElement()}
+          </>
+        ),
       }
+    } finally {
+      sheet.seal()
     }
   }
-`
+}
 ```
 
-Which I then map over in a page component - to display like so:
+This [code](https://github.com/vercel/next.js/blob/master/examples/with-styled-components/pages/_document.js) can also be found at the styled-components-example in the Next.js repo.
 
-```js
-// project styled using css modules
-<div className={styles.picContainer}>
-  {nodes.map(pic => {
-    // calling helper function here
-    const image = getImage(pic)
-    return (
-      <GatsbyImage
-        key={pic.id}
-        image={image}
-        className={styles.instaPic}
-        alt=""
-      />
-    )
-  })}
-</div>
-```
+Here is a link to the [documentation](https://styled-components.com/docs/advanced#nextjs) on the styled-components website.
 
-All code for this project can be found by clicking [here](https://github.com/papadavis47/lafamiliadavis) 🤓
+---
 
-Lastly, to get up and running with these tools in your next Gatsby project, I recommend [this excellent 10 minute video](https://www.youtube.com/watch?v=zRtFwzF4p1o) by [Laurie Barth](https://twitter.com/laurieontech) from a talk during <a href="https://www.gatsbyconf.com/">GatsbyConf 2021</a>.
+## Choices After Setup
 
-Laurie concisely goes over the options available when working with `gatsby-image-plugin`. This video contains all the information I needed in order to get started using it initially.
+Now that I have the the dependencies installed - `.babelrc` configured - and the provided code in a `pages/_document.js` file - I can begin using styled-components as I would in any other React project.
 
-And, ofcourse, the [Gatsby docs](https://www.gatsbyjs.com/docs) are of very high quality 🥇
+Of course, I no longer need `Home.module.css` file in the `styles` folder - so I deleted that and the related import inside `index.js` - along with some other cleanup of the boilerplate code.
 
-Happy coding with Gatsby v3!
+I can choose to still use `styles/globabls.css` and keep the related import inside `pages/_app.js` - or I can simply delete those too and create my own global styles with the `createGlobalStyle` API from styled-components.
 
-![Celebration](./undraw_well_done_i2wr.png)
+I have used both options and it is simply a matter of preference ⭐
+
+Hope this article helps you when using **styled-components** with _Next.js_! 💯
+
+![SourceCode from Undraw](./undraw_Source_code.png)

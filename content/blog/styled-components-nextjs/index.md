@@ -4,9 +4,9 @@ date: "2021-10-06"
 description: "How to setup a Next.js project for styled-components 🔧"
 ---
 
-Lately, for personal projects, I have been using **Next.js** and the developer experience is awesome 🤓
+Lately, for personal projects, I have been using **Next.js** 🚀
 
-Now I know from experience why it is so widely considered one of the best React frameworks 🚀
+The developer experience is awesome 🤓
 
 I also recently began learning the [styled-components](https://styled-components.com/) library.
 

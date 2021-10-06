@@ -4,21 +4,23 @@ date: "2021-10-06"
 description: "How to setup a Next.js project for styled-components 🔧"
 ---
 
-Lately, for personal projects, I have been using **Next.js** and it is wonderful 🚀
+Lately, for personal projects, I have been using **Next.js** and the developer experience is awesome 🤓
+
+Now I know from experience why it is so widely considered one of the best React frameworks 🚀
 
 I also recently began learning the [styled-components](https://styled-components.com/) library.
 
-For a [“digital garden”](https://papadavis47.dev) that I began working on a few days ago - I decided I wanted to combine the two.
+A few days ago, I decided that I wanted to combine the two for a [“digital garden”](https://papadavis47.dev) that I have begun working on.
 
 ![Next.js from Undraw](./undraw_next_js.png)
 
-## Just a Bit of Prep Involved
+## Just a Bit of Prep Involved 👷🏽‍♂️
 
 An easy way to begin a **Next.js** project is to use the following command in a terminal:
 
 `npx create-next-app <NameOfProject>`
 
-I happen to prefer working with the [**yarn**](https://classic.yarnpkg.com/lang/en/) package manager, which I have installed globally, so I run the following:
+I happen to prefer working with the [**yarn**](https://classic.yarnpkg.com/lang/en/) package manager, which I have installed globally on my machine, so I run the following:
 
 `yarn create next-app <NameOfProject>`
 
@@ -52,9 +54,11 @@ Then create a `.babelrc` file at the root - with the following contents:
 
 ```
 
-The next step is to create a `_document.js` file in the `pages` directory and add the following code:
+The next step is to create a `_document.js` file in the `pages` directory and paste in the following code:
 
 ```js
+// in pages/_document.js
+
 import Document from "next/document"
 import { ServerStyleSheet } from "styled-components"
 
@@ -86,19 +90,19 @@ export default class MyDocument extends Document {
 }
 ```
 
-This [code](https://github.com/vercel/next.js/blob/master/examples/with-styled-components/pages/_document.js) can also be found at the styled-components-example in the Next.js repo.
+This [code](https://github.com/vercel/next.js/blob/master/examples/with-styled-components/pages/_document.js) above can also be found at the **styled-components** [example](https://github.com/vercel/next.js/tree/master/examples/with-styled-components) in the Next.js [repo](https://github.com/vercel/next.js) on GitHub.
 
-Here is a link to the [documentation](https://styled-components.com/docs/advanced#nextjs) on the styled-components website.
+Here is a link to the [documentation](https://styled-components.com/docs/advanced#nextjs) 🥇
 
 ---
 
-## Choices After Setup
+## Choices After Setup ䷾
 
-Now that we have the the dependencies installed - `.babelrc` configured - and the provided code in a `pages/_document.js` file - we can begin using styled-components as I would in any other React project.
+Now that we have the the dependencies installed - `.babelrc` configured - and the provided code in a `pages/_document.js` file - we can begin using **styled-components** as we would in any [Create React App](https://create-react-app.dev/) project.
 
 Of course, we no longer need `Home.module.css` file in the `styles` folder - so we can delete that and the related import inside `index.js` - along with some other cleanup of the boilerplate code.
 
-We can choose to still use `styles/globabls.css` and keep the related import inside `pages/_app.js` - or we can simply delete those too and create our own global styles with the `createGlobalStyle` API from styled-components.
+We can choose to still use `styles/globabls.css` and keep the related import inside `pages/_app.js` - or we can simply delete those too and create our own global styles with the `createGlobalStyle` API from **styled-components**.
 
 I have used both options and it is simply a matter of preference ⭐
 

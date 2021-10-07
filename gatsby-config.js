@@ -6,7 +6,7 @@ module.exports = {
       summary: ` - Based in Seattle - I am interested in all things React, Node, Python and Vim 🤓`,
     },
     description: `Thoughts and Reflections on React, MongoDB, Node, Python 🤓`,
-    siteUrl: `https://papadavis47.dev`,
+    siteUrl: `https://comfortablefeelingdumb.com`,
     social: {
       twitter: `papadavis47`,
     },

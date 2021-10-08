@@ -1,5 +1,5 @@
 ---
-title: "Using styled-components in a Next.js project 🛠️"
+title: "Styled-components in a Next.js project 🛠️"
 date: "2021-10-06"
 description: "How to setup a Next.js project for styled-components 🔧"
 ---

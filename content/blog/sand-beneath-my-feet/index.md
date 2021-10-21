@@ -60,7 +60,7 @@ I just kept cruising neighborhoods, talking with people in each one, reading a l
 
 Eventually, after two years or so, I settled on the _arrondissement_ or **district** of web development. I was narrowing it down - albeit slowly.
 
-More recently, I narrowed my vision down even further to the frontend of the stack. That is what brings me the most joy and sense of accomplishment when I complete a task. For now, anyway. I am always open to evolving. But for now, I call myself a frontend web developer - and I happy to be focusing on this side of things 😄
+More recently, I narrowed my vision down even further to the frontend of the stack. That is where I get the most joy and sense of accomplishment when I complete a task. For now, anyway. I am always open to evolving. But for now, I call myself a frontend web developer - and I happy to be focusing on that side of things 😄
 
 ## Closer to DRY land 🏖 🙏
 

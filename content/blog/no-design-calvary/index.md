@@ -1,115 +1,65 @@
 ---
 title: There Is No Design Calvary  🧑‍🎨 🥫
 date: "2021-10-27"
-description: "Designing personal projects as a developer - with no design training 😨"
+description: "Coding personal projects - with no design training 😨"
 ---
 
-#### Programming is a learning marathon 🎽
+#### CSS vs Design
 
-If you consider the total amount of continuous learning that a dedicated programmer does over the course of many years - then it is more analogous to an ultra marathon of the most brutal kind.
+#### Starving Solo Artistry 🧑🏽‍🎨
 
-It is rewarding with small victories scattered throughout.
+I am currently working on several personal projects. Over a four year period since I wrote my first line of code - mostly self learning - along with a 12 week bootcamp last year - I have gotten pretty good at HTML, CSS, JavaScript - and the React library - plus it's related frameworks.
 
-It is even quite often fun.
+I have narrowed my focus to the frontend - and I consider myself far from expert - but I am competent in a general way when it comes to the frontend web development.
 
-But it is not easy at all and it is often uncomfortable.
+Designing my personal projects is very difficult. Unlike working on a team at most companies - when I am working on my own there is no help in site. It's pretty much up to me. Sure, I could ask some friends to help me with design - but not a lot will be learned that way.
 
-#### Growing as a programmer - an extreme sport 🏂🏼
+I would rather develop my own instincts and intuition. So, I struggle through it.
 
-For as long as I can remember I have been fascinated by extreme sport athletes.
+I am not particularly interested in cloning other apps or websites at this point in my development. Sometimes, I do a limited number of tutorials from effective online educators - but for the most part, I want to implent my own ideas when I spend time coding - for several reasons.
 
-People like
-Tour de France cyclists, big wave surfers, extreme skiers, free solo rock climbers, or
-mountaineers summiting K2 are very interesting humans.
+For one thing, any work that I generate at this point in my journey, I want to be able to show potential employers. And I the idea of showiing an Instagram clone does not sound good to me. Ofcourse, it would be a worthwhile learning exercise - but I want something different than that with my limited time.
 
-How, I have often wondered, do they keep their composure during
-activities that would overwhelm and overload most people? What is the mindset? And does that mindset
-simply exist from the beginning for the individual or is it developed over time?
+# No Help Coming
 
-![Rock Climber on Cliff](./jeff-ochoa-unsplash.jpg)
+And I am realizing that I just simply have to embrace it and simply do the best that I can. Try as much as I can to develop my tastes and instincts for what works well visually.
 
-Photo by <a href="https://unsplash.com/@jeffochoa?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Jeff Ochoa</a> on <a href="https://unsplash.com/s/photos/rock-climbing?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+Recently I began working my way through Josh Comeau's CSS course "CSS for JS Developers" .
 
-There is no imaginable way that any of those things could be ["comfortable"](https://www.merriam-webster.com/dictionary/comfortable) in the traditional sense
-of the word. But is it possible to become comfortable with the discomfort? Maybe even settle into it
-and find peace and satisfaction in the middle of it?
+I highly recommend the course to any front end developers. I am only about a third of the eay through and I have already gotten my money's worth. It is **brilliant** work from Comeau.
 
-These activities probably often elicit a [flow state](<https://en.wikipedia.org/wiki/Flow_(psychology)>) - which brings joy and elation and a feeling of victory. And programming can do this too.
+I have never even considered that word to describe a course before - except for maybe Kent C Dodd's Epic React - but it is brilliant material - every bit as much worth the investment as Epic React.
 
-Over time, I imagine the practitioners of anything extreme have learned to become comfortable with the pain, exhaustion, fear, heat, cold, or altitude. Perhaps they make peace with discomfort and then simply go about their business - knowing that there are rewards to their actions - even while the discomfort exists.
+The course is completely changing the mental models that I have about CSS. And many things are becoming clear that I had just a fingernail grasp on before.
 
-#### Not exactly pain - but close 😕
+Again, I am barely a third of the way through the content and it was just released a few weeks ago as of this writing.
 
-Feeling at the very edge of your knowledge is not comfortable.
+I have always considered the web a visual medium - closer to cinema in it's use of various media - than writing on paper - yet pieces of software are tools, right? It is about what the work can _do_.
 
-It can make you feel inadequate and amateurish and can even make you feel that you are not cut out for the task you are engaged in.
+It is a paradox, it seems.
 
-When I have to search for answers on Google and StackOverflow, read carefully through documentation, figure out error message
-after error message, or remember a piece of information that I have either applied before or come across before but can
-not recall in the moment - it can make me feel like I am a dumb person. Not fit for the task I
-am engaged in.
+Beyond being inspired by Comeau's beautiful work - doing more and more of my own work has made me think about these issues for lately.
 
-And considering the vastness of computer science and programming in general - who is not operating on the edge of their knowledge if they are serious about building things with code?
+Beautiful things are mesmerizing. We are attracted to anything that looks good. From other humans, to buildings. It is just the way we are wired as humans.
 
-Sure, I know more and I can do more than I did last month or even yesterday. And I know A GREAT DEAL MORE
-than I did last year, but the amount of things I do not know far, far outweigh the things that I do know.
+Software is no exception.
 
-A lesson I have learned for myself, over nearly four years since I wrote my first line of code - is
-that I need to be **comfortable with feeling dumb**.
+Software design is in large part about communication.
 
-I do not see myself most times as a dumb person. But I **feel like I am** - often.
+## I am on my own . . .
 
-Programming makes me feel that way. Writing code is hard. Confusing. Often unclear. Always at the edge of things unknown and unlearned.
+There is no money to hire a designer.
 
-One thing I have learned is that I need to **settle into that**. Like an ultra marathon runner settles into pain.
+Reminds me of a filmmaker who has no money to hire a cinematographer and much learn photograpy and composition, lenses.
 
-One of my friends ran cross country track in highschool. I remember him telling me that he was
-always a little scared before a race. He trained running long distances a lot and I asked him why he
-had felt fear. Was it the fear of losing? I asked him. He said:
+And we are not even talking about distribution yet - or anyone seeing the film.
 
-> "No, it was because I knew I was going to feel pain."
+I MUST learn how to make things look good. How else is anyone going to enjoy using my software / web app / or even reading my website.
 
-I asked him if it got easier through the season as he trained more, got stronger, built his cardio.
+There is subjectivity involved, and all kinds of intangibles. But that is the nature of the business.
 
-> "It doesn't get easier. You just run that much harder. So you're always going to feel pain."
+Not only must I have the technical skills to implement my ideas ( CSS coding skills - ie flexbox, positional layout tools, grid, styling solutions like Emotion or CSS Modules, etc ) but I also must have the design skills to come up with something interesting - also.
 
-![Marathon Runners](./miguel-a-amutio-unsplash.jpg)
+These are conflicts in the brain. Business logic and deployment skills, churning out ideas for an interesting app, and making it look good - technically and conceptually. I do not subscribe to the left brain / right brain myth. I believe that I can get better at design if I work at it - like anything. But, geez, it is not easy . . .
 
-Photo by <a href="https://unsplash.com/@amutiomi?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Miguel A. Amutio</a> on <a href="https://unsplash.com/s/photos/marathon?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-
-#### I have seen the same thing with parenting 🤹‍♂️
-
-When my kids were babies I thought parenting
-might get easier when my kids could eat without being spoon fed, or when they could walk and did not
-need to be carried everywhere, or when they could put themselves in their own car seats, or when
-they could talk and discuss their feelings with me.
-
-But it never gets any easier. There are just new
-horizons to walk toward, new things that come up with raising them, no finish line in sight. Ever.
-
-The same is true of programming. No matter which language or framework or piece of the vastness that
-I am currently working in.
-
-So, I decided to simply settle in and make friends with being on the edge of my knowledge always.
-
-For example, whenever a part of React or Python or Node becomes clear to me and I feel confident
-with a certain aspect of the work - yes, I feel the satisfaction for a few moments. I know I have gained something that I can use again. Then what happens?
-
-> ". . . run that much harder."
-
-The satisfaction is fleeting 😥
-
-In other words, I end up tackling more complex problems, heretofore unknown, and I am back to
-feeling dumb again.
-
-There is nothing else to do but deal with that feeling head on and make peace with it. Because it
-will always be there.
-
-The trick I have found for myself is breathe easy, maybe stretch or move in some way, and **just be
-okay with it**.
-
-That is programming and I am at home there.
-
-It is the only way to move forward.
-
-And moving forward is the biggest victory when hitting a wall on a task 🥇
+Luckily, there is plent of help. Josh's course is one source and finding inspiration from various website from all over the world, the art that you can find on CodePen and other places.

@@ -7,6 +7,7 @@ module.exports = {
     },
     description: `Thoughts and Reflections on React, MongoDB, Node, Python 🤓`,
     siteUrl: `https://comfortablefeelingdumb.com`,
+    image: `https://res.cloudinary.com/papadavis47/image/upload/v1635261952/blog-screenshot_q1ueca.png`,
     social: {
       twitter: `papadavis47`,
     },

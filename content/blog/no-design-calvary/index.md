@@ -4,27 +4,31 @@ date: "2021-10-27"
 description: "Coding personal projects - acquiring design skills as a dev 😕"
 ---
 
-#### CSS vs Design
+#### CSS vs Design 🆘
 
-Recently, I began working through Josh Comeau's brilliant CSS course - ["CSS for JavaScript Developers](https://css-for-js.dev/) and it has unlocked for me things about CSS that I have never understood at all. And going through the lessons slowly has given me a glimpse of how much there is to know about styling things on the web.
+Recently, I began working through Josh Comeau's brilliant CSS course - ["CSS for JavaScript Developers](https://css-for-js.dev/).
 
-I discovered Comeau's work this past summer and it was clear that not only is he a very good developer - but he is also a darn good designer - albeit not a full time designer. Somehow he has acquired those skills over time.
+It has unlocked for me things about CSS that I have just barely understood before or never really understood at all. Going through the lessons slowly has given me an appreciation of how much there is to know about styling things on the web. I knew it was difficult, ofcourse. I have been struggling through CSS since I first began to learn to code four years ago. But **CSS for JavaScript Developers** is jam packed with information - and each module has made clear **several things** that I have mentally skimmed over several times before while hoping for the best.
 
-I aspire to that.
+I first came across Comeau's work this past summer. It was clear to me that not only is he a very good developer - but he is also a darn good designer - albeit not a full time designer. Somehow he has acquired those skills over time.
+
+And I aspire to that.
 
 The more I learn about CSS - the more closely I look at the visual details of the components I am creating with my code - the more I separate it from design.
 
-Design and CSS are two different animals. Two different skills sets. One is reproducing in code, using markup and CSS solutions, some ideas for the visuals of a app and/or website. And the other is coming up with those ideas to begin with. If either one of those is on shaky ground . . .
+Design and CSS are two different animals. One is reproducing in code, using markup and CSS solutions, some ideas for the visuals of a app and/or website. And the other is coming up with those ideas to begin with.
 
-The only solution I can think of is basically the only one that I can implement:
+If either one of those is on shaky ground . . .
+
+The only solution I can think of is the only one that I can implement:
 
 _Do the best that I can and keep growing with it each day._
 
-If I want to continue working on personal projects ( **which I do** ), whether I am being paid for the project or not, then I am looking at **two** marathons in acquiring and growing these skills. Not one.
+If I want to continue working on unpaid personal projects ( **which I do** ) then I am looking at **two** marathons in acquiring and growing these skills. Not one.
 
 #### Starving Solo Artistry 🧑🏽‍🎨
 
-I am currently working on several personal projects. Over a four year period since I wrote my first line of code - mostly self learning - along with a 12 week bootcamp last year - I have gotten pretty good at HTML, CSS, JavaScript - and the React library - plus it's related frameworks.
+Over a four year period since I wrote my first line of code - mostly self learning - along with a 12 week bootcamp last year - I have gotten pretty good at HTML, CSS, JavaScript - and the React library - plus it's related frameworks.
 
 I have narrowed my focus to the frontend - and I consider myself far from expert - but I am competent in a general way when it comes to the frontend web development.
 
@@ -36,7 +40,7 @@ I am not particularly interested in cloning other apps or websites at this point
 
 For one thing, any work that I generate at this point in my journey, I want to be able to show potential employers. And I the idea of showiing an Instagram clone does not sound good to me. Ofcourse, it would be a worthwhile learning exercise - but I want something different than that with my limited time.
 
-# 🆘 No Help Coming 😭
+# No Help Coming 😭
 
 And I am realizing that I just simply have to embrace it and simply do the best that I can. Try as much as I can to develop my tastes and instincts for what works well visually.
 

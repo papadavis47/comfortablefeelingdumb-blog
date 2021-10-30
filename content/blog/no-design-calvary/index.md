@@ -8,9 +8,11 @@ description: "Coding personal projects - acquiring design skills as a dev 😕"
 
 Recently, I began working through Josh Comeau's brilliant CSS course - ["CSS for JavaScript Developers](https://css-for-js.dev/).
 
-It has unlocked for me things about CSS that I have just barely understood - or have never really understood at all. Going through the lessons slowly has given me an appreciation of how much there is to know about styling things on the web. I knew it was difficult, ofcourse. I have been struggling through CSS since I first began to learn to code four years ago. But **CSS for JavaScript Developers** is jam packed with information - and each module has made clear **several things** that I have mentally skimmed over several times - while hoping for the best.
+It has unlocked for me things about CSS that I have just barely understood - or have never really understood at all. Going through the lessons slowly has given me an appreciation of how much there is to know about styling things on the web. I knew it was difficult, ofcourse. I have been struggling through CSS since I first began to learn to code four years ago.
 
-I first came across Comeau's work this past summer. It was clear to me that not only is he a very good developer - but he is also a darn good designer - albeit not a full time designer. Somehow he has acquired those skills over time.
+**CSS for JavaScript Developers** is jam packed with information. Each module of the course has made clear to me **several things** that I have mentally skimmed over many times - all the while hoping for the best as I skimmed.
+
+I first came across Comeau's work this past summer. Not only is he a very good developer - but he is also a darn good designer - albeit not a full time designer. Somehow he has acquired those skills over time.
 
 And I aspire to that.
 
@@ -24,7 +26,7 @@ The only solution I can think of is the only one that I can implement:
 
 _Do the best that I can and keep growing with it each day._
 
-If I want to continue working on unpaid personal projects ( **which I do** ) then I am looking at **two** marathons in acquiring and growing these skills. Not one.
+If I want to continue working on unpaid personal projects ( **which I do** ) then I am looking at **two** marathons in acquiring and growing these skills. Not one marathon.
 
 #### Starving Solo Artistry 🥫 🎨
 

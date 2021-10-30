@@ -1,5 +1,5 @@
 ---
-title: There Is No Design Calvary  🧑‍🎨 🥫
+title: There Is No Design Calvary  🧑‍🎨
 date: "2021-10-27"
 description: "Coding personal projects - acquiring design skills as a dev 😕"
 ---
@@ -26,9 +26,9 @@ _Do the best that I can and keep growing with it each day._
 
 If I want to continue working on unpaid personal projects ( **which I do** ) then I am looking at **two** marathons in acquiring and growing these skills. Not one.
 
-#### Starving Solo Artistry 🧑🏽‍🎨
+#### Starving Solo Artistry 🥫 🎨
 
-Over a four year period since I wrote my first line of code - mostly self learning - along with a 12 week bootcamp last year - I have gotten pretty good at HTML, CSS, JavaScript - and the React library - plus it's related frameworks.
+Over the four year period since I wrote my first line of code - mostly self learning - along with a 12 week bootcamp last year - I have gotten pretty good at HTML, CSS, JavaScript - and the React library - plus it's related frameworks.
 
 I have narrowed my focus to the frontend - and I consider myself far from expert - but I am competent in a general way when it comes to the frontend web development.
 
@@ -54,7 +54,7 @@ Beautiful things are mesmerizing. We are attracted to anything that looks good. 
 
 Software is no exception.
 
-## I am on my own . . . 😨
+## On my own . . . 😨
 
 There is no money to hire a designer. Even if I wanted to - it would not be practical.
 

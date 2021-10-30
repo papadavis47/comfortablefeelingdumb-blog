@@ -1,10 +1,26 @@
 ---
 title: There Is No Design Calvary  🧑‍🎨 🥫
 date: "2021-10-27"
-description: "Coding personal projects - with no design training 😨"
+description: "Coding personal projects - acquiring design skills as a dev 😕"
 ---
 
 #### CSS vs Design
+
+Recently, I began working through Josh Comeau's brilliant CSS course - ["CSS for JavaScript Developers](https://css-for-js.dev/) and it has unlocked for me things about CSS that I have never understood at all. And going through the lessons slowly has given me a glimpse of how much there is to know about styling things on the web.
+
+I discovered Comeau's work this past summer and it was clear that not only is he a very good developer - but he is also a darn good designer - albeit not a full time designer. Somehow he has acquired those skills over time.
+
+I aspire to that.
+
+The more I learn about CSS - the more closely I look at the visual details of the components I am creating with my code - the more I separate it from design.
+
+Design and CSS are two different animals. Two different skills sets. One is reproducing in code, using markup and CSS solutions, some ideas for the visuals of a app and/or website. And the other is coming up with those ideas to begin with. If either one of those is on shaky ground . . .
+
+The only solution I can think of is basically the only one that I can implement:
+
+_Do the best that I can and keep growing with it each day._
+
+If I want to continue working on personal projects ( **which I do** ), whether I am being paid for the project or not, then I am looking at **two** marathons in acquiring and growing these skills. Not one.
 
 #### Starving Solo Artistry 🧑🏽‍🎨
 
@@ -20,19 +36,9 @@ I am not particularly interested in cloning other apps or websites at this point
 
 For one thing, any work that I generate at this point in my journey, I want to be able to show potential employers. And I the idea of showiing an Instagram clone does not sound good to me. Ofcourse, it would be a worthwhile learning exercise - but I want something different than that with my limited time.
 
-# No Help Coming
+# 🆘 No Help Coming 😭
 
 And I am realizing that I just simply have to embrace it and simply do the best that I can. Try as much as I can to develop my tastes and instincts for what works well visually.
-
-Recently I began working my way through Josh Comeau's CSS course "CSS for JS Developers" .
-
-I highly recommend the course to any front end developers. I am only about a third of the eay through and I have already gotten my money's worth. It is **brilliant** work from Comeau.
-
-I have never even considered that word to describe a course before - except for maybe Kent C Dodd's Epic React - but it is brilliant material - every bit as much worth the investment as Epic React.
-
-The course is completely changing the mental models that I have about CSS. And many things are becoming clear that I had just a fingernail grasp on before.
-
-Again, I am barely a third of the way through the content and it was just released a few weeks ago as of this writing.
 
 I have always considered the web a visual medium - closer to cinema in it's use of various media - than writing on paper - yet pieces of software are tools, right? It is about what the work can _do_.
 
@@ -44,17 +50,15 @@ Beautiful things are mesmerizing. We are attracted to anything that looks good. 
 
 Software is no exception.
 
-Software design is in large part about communication.
+## I am on my own . . . 😨
 
-## I am on my own . . .
+There is no money to hire a designer. Even if I wanted to - it would not be practical.
 
-There is no money to hire a designer.
-
-Reminds me of a filmmaker who has no money to hire a cinematographer and much learn photograpy and composition, lenses.
+Reminds me of a filmmaker who has no money to hire a cinematographer and so she must learn photograpy, composition, lenses, depth of field, lighting.
 
 And we are not even talking about distribution yet - or anyone seeing the film.
 
-I MUST learn how to make things look good. How else is anyone going to enjoy using my software / web app / or even reading my website.
+I MUST learn how to make things look good. How else is anyone going to enjoy using my software / web app / or even reading my website?
 
 There is subjectivity involved, and all kinds of intangibles. But that is the nature of the business.
 
@@ -62,4 +66,6 @@ Not only must I have the technical skills to implement my ideas ( CSS coding ski
 
 These are conflicts in the brain. Business logic and deployment skills, churning out ideas for an interesting app, and making it look good - technically and conceptually. I do not subscribe to the left brain / right brain myth. I believe that I can get better at design if I work at it - like anything. But, geez, it is not easy . . .
 
-Luckily, there is plent of help. Josh's course is one source and finding inspiration from various website from all over the world, the art that you can find on CodePen and other places.
+and finding inspiration from various website from all over the world, the art that you can find on CodePen and other places.
+
+Luckily, there is plenty of help. Josh's course is one source that I have already mentioned. I highly recommend it to any front end developers. I am only about half way through and I have already gotten my money's worth.

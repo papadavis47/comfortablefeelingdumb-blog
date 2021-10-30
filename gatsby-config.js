@@ -3,9 +3,9 @@ module.exports = {
     title: `Comfortable Feeling Dumb 😎`,
     author: {
       name: `John William Davis`,
-      summary: ` - Based in Seattle - I am interested in all things React, Node, Python and Vim 🤓`,
+      summary: ` - Based in Seattle - I am interested in all things React, Node, Rust and Vim 🤓`,
     },
-    description: `Thoughts and Reflections on React, MongoDB, Node, Python 🤓`,
+    description: `Thoughts and Reflections on React, MongoDB, Node, Rust 🤓`,
     siteUrl: `https://comfortablefeelingdumb.com`,
     image: `https://res.cloudinary.com/papadavis47/image/upload/v1635264759/comfortable-v3_dynhc3.png`,
     social: {

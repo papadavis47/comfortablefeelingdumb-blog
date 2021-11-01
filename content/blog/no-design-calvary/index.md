@@ -18,9 +18,11 @@ I knew it was difficult, ofcourse. I have been struggling through CSS, with mixe
 
 **CSS for JavaScript Developers** is jam packed with information. Each module of the course has made clear **several things** that I have mentally skimmed over many times - all the while hoping for the best as I skimmed.
 
-Ofcourse, I am in the process of applying what I am learning to my own work - and that means practice. Now, and in future projects. I still have a long way to go to fully absorb and make my own what Comeau is teaching - but I feel like I am on a better, more solid path now. With much more idea of how the pieces fit together.
+Ofcourse, I am in the process of applying what I am learning to my own work - and that means practice. Now, and in future projects. I still have a long way to go to fully absorb and make my own what Comeau is teaching - but I feel like I am on a better, more solid path - with much more idea of how the pieces fit together.
 
-I first came across Comeau's [work](https://www.joshwcomeau.com/) this past summer. Not only is he a very good developer - but he is also a darn good designer - albeit not a full time designer. Somehow he has acquired those skills over time.
+I first came across Comeau's [work](https://www.joshwcomeau.com/) this past summer. Not only is he a very good developer - but he is also a darn good designer - albeit not a full time designer.
+
+Somehow he has acquired design skills over time.
 
 **And I aspire to that.**
 
@@ -32,7 +34,7 @@ Design and CSS are two different animals. One is producing in code, using markup
 
 The other is coming up with those ideas to begin with.
 
-_If either one of those is on shaky ground . . ._
+_If either one of those animals is on shaky ground . . ._
 
 ---
 
@@ -40,7 +42,7 @@ _If either one of those is on shaky ground . . ._
 
 The only solution I can think of is the only one that I **can** implement:
 
-_Do the best that I can and keep growing with it each day._
+_Do the best that I can to develop design intuition and keep growing with it each day._
 
 If I want to continue working on unpaid personal projects ( **which I do** ) then I am looking at **two** marathons in acquiring and growing these skills. Not one marathon.
 
@@ -60,15 +62,15 @@ I would rather develop my own instincts and intuition. So, I struggle through it
 
 I am not particularly interested in cloning other apps or websites at this point in my development. Sometimes, I do a limited number of tutorials from effective online educators - but for the most part, I want to implent my own ideas when I spend time coding - for several reasons.
 
-For one thing, any work that I generate at this point in my journey, I want to be able to show potential employers. And I the idea of showiing an Instagram clone does not sound good to me. Ofcourse, it would be a worthwhile learning exercise - but I want something different than that with my limited time.
+For one thing, any work that I generate at this point in my journey, I want to be able to show potential employers. And I the idea of showing an Instagram clone does not sound good to me. It would indeed be a worthwhile learning exercise - but I want something more than that with my limited time to work on projects.
 
 ## No Designers Around 😭
 
-And I am realizing that I just simply have to embrace it and simply do the best that I can. Try as much as I can to develop my tastes and instincts for what works well visually.
+I am realizing that I just simply have to embrace it. Try as much as I can to develop my tastes and instincts for what works well visually.
 
 I have always considered the web a visual medium - closer to cinema, in it's use of various media, than writing on paper.
 
-Yet pieces of software are tools, right? It is about what the work can _do_.
+Yet pieces of software are tools, right? It is about what the software can _do_ and the problems it solves.
 
 It is a paradox, it seems.
 
@@ -78,7 +80,7 @@ Beautiful things are mesmerizing. We are attracted to anything that looks good. 
 
 Software is no exception.
 
-## On my own??? 😨
+## On my own? 😨
 
 There is no money to hire a designer. Even if I wanted to - even if that were a good idea for this current point in my journey as a developer - it would not be practical.
 
@@ -100,7 +102,9 @@ I do not subscribe to the left brain / right brain myth. I believe that I can ge
 
 Luckily, there is help if I look around enough. Josh's [course](https://css-for-js.dev/) is one source that I have already mentioned.
 
-There is also the help and inspiration that comes from viewing interesting and beautiful websites and web apps from various companies and individuals around the world. I have also gotten ideas from the art that I have found on [CodePen](https://codepen.io/) and other places on the web like it.
+There is also the help and inspiration that comes from viewing interesting and beautiful websites and web apps from various companies and individuals around the world.
+
+I have also gotten ideas from work that I have found on [CodePen](https://codepen.io/) - some of it so ingenious and beautiful that is rises to the level of digital fine art. And the source code can be looked at and studied **for free**.
 
 **It is a process.**
 

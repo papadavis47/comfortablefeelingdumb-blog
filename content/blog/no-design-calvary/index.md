@@ -6,11 +6,11 @@ description: "Coding personal projects - acquiring design skills as a dev 😕"
 
 #### CSS vs Design 🆘
 
-Recently, I began working through Josh Comeau's brilliant CSS course - ["CSS for JavaScript Developers](https://css-for-js.dev/).
+Recently, I began working through Josh Comeau's brilliant CSS course - ["CSS for JavaScript Developers"](https://css-for-js.dev/).
 
-It has unlocked for me things about CSS that I have just barely understood - or have never really understood at all. Going through the lessons slowly has given me an appreciation of how much there is to know about styling things on the web. I knew it was difficult, ofcourse. I have been struggling through CSS since I first began to learn to code four years ago.
+The course has unlocked for me things about CSS that I have just barely understood in the past - or have never really understood at all. Going through the lessons slowly has given me an appreciation of how much there is to know about styling content for a browser. I knew it was difficult, ofcourse. I have been struggling through CSS, with mixed results, since I first began to learn to code four years ago. Not terrible CSS, but not particularly good, either.
 
-**CSS for JavaScript Developers** is jam packed with information. Each module of the course has made clear to me **several things** that I have mentally skimmed over many times - all the while hoping for the best as I skimmed.
+**CSS for JavaScript Developers** is jam packed with information. Each module of the course has made clear **several things** that I have mentally skimmed over many times - all the while hoping for the best as I skimmed.
 
 I first came across Comeau's work this past summer. Not only is he a very good developer - but he is also a darn good designer - albeit not a full time designer. Somehow he has acquired those skills over time.
 
@@ -18,7 +18,7 @@ And I aspire to that.
 
 The more I learn about CSS - the more closely I look at the visual details of the components I am creating with my code - and the more I separate it from design.
 
-Design and CSS are two different animals. One is reproducing in code, using markup and CSS solutions, some ideas for the visuals of a app and/or website. And the other is coming up with those ideas to begin with.
+Design and CSS are two different animals. One is reproducing, in code using markup and CSS solutions, ideas for the visuals of a app and/or website. And the other is coming up with those ideas to begin with.
 
 If either one of those is on shaky ground . . .
 

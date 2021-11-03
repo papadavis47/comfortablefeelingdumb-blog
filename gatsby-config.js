@@ -7,7 +7,7 @@ module.exports = {
     },
     description: `Thoughts and Reflections on React, MongoDB, Node, Rust 🤓`,
     siteUrl: `https://comfortablefeelingdumb.com`,
-    image: `https://res.cloudinary.com/papadavis47/image/upload/v1635980090/cfd-twitter-image_pj3dux.png`,
+    image: `https://res.cloudinary.com/papadavis47/image/upload/v1635980557/cfd-twitter-2_lnlpta.png`,
     social: {
       twitter: `papadavis47`,
     },

@@ -18,7 +18,7 @@ I knew it was difficult, ofcourse. I have been struggling through CSS, with mixe
 
 **CSS for JavaScript Developers** is jam packed with information. Each module of the course has made clear **several things** that I have mentally skimmed over many times - all the while hoping for the best as I skimmed.
 
-Ofcourse, I am in the process of applying what I am learning to my own work - and that means practice. Now, and in future projects. I still have a long way to go to fully absorb and make my own what Comeau is teaching - but I feel like I am on a better, more solid path - with much more idea of how the pieces fit together.
+Of course, I am in the process of applying what I am learning to my own work - and that means practice. Now, and in future projects. I still have a long way to go to fully absorb and make my own what Comeau is teaching - but I feel like I am on a better, more solid path - with much more idea of how the pieces fit together.
 
 I first came across Comeau's [work](https://www.joshwcomeau.com/) this past summer. Not only is he a very good developer - but he is also a darn good designer - albeit not a full time designer.
 

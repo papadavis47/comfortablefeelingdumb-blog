@@ -14,7 +14,7 @@ I am learning things about CSS from the course that I have barely understood in 
 
 Going through the lessons slowly has given me an appreciation of how much there is to know about styling content for a browser.
 
-I knew it was difficult, ofcourse. I have been struggling through CSS, with mixed results, since I first began to learn to code four years ago. Not terrible CSS, but not particularly great, either.
+I knew it was difficult, of course. I have been struggling through CSS, with mixed results, since I first began to learn to code four years ago. Not terrible CSS, but not particularly great, either.
 
 **CSS for JavaScript Developers** is jam packed with information. Each module of the course has made clear **several things** that I have mentally skimmed over many times - all the while hoping for the best as I skimmed.
 
@@ -60,21 +60,21 @@ Unlike working on a team at most companies, when I am working on my own there is
 
 I would rather develop my own instincts and intuition. So, I struggle through it.
 
-I am not particularly interested in cloning other apps or websites at this point in my development. Sometimes, I do a limited number of tutorials from effective online educators - but for the most part, I want to implent my own ideas when I spend time coding - for several reasons.
+I am not particularly interested in cloning other apps or websites at this point. Sometimes, I do a limited number of tutorials from effective online educators - but for the most part, I want to implent my own ideas when I spend time coding - for several reasons.
 
-For one thing, any work that I generate at this point in my journey, I want to be able to show potential employers. And I the idea of showing an Instagram clone does not sound good to me. It would indeed be a worthwhile learning exercise - but I want something more than that with my limited time to work on projects.
+For one thing, any work that I generate I want to be able to use myself in a practical way. Secondly, I want to be able to show the work to potential employers. And the idea of showing an Instagram clone does not sound good to me. It would indeed be a worthwhile learning exercise - but I want something more than that from the projects that I work on.
 
 ## No Designers Around 😭
 
 I am realizing that I just simply have to embrace it. Try as much as I can to develop my tastes and instincts for what works well visually.
 
-I have always considered the web a visual medium - closer to cinema, in it's use of various media, than writing on paper.
+I have always considered the web a visual medium. It is closer to cinema, in it's use of various media, than it is to writing on paper.
 
 Yet pieces of software are tools, right? It is about what the software can _do_ and the problems it solves.
 
 It is a paradox, it seems.
 
-Beyond being inspired by Comeau's beautiful work - doing more and more of my own work has made me think about these issues for lately.
+Beyond being inspired by Comeau's CSS course - doing more and more of my own work has made me think about these issues for lately.
 
 Beautiful things are mesmerizing. We are attracted to anything that looks good. From other humans, to buildings. It is just the way we are wired as humans.
 
@@ -82,17 +82,9 @@ Software is no exception.
 
 ## On my own? 😨
 
-There is no money to hire a designer. Even if I wanted to - even if that were a good idea for this current point in my journey as a developer - it would not be practical.
-
 Solo devs are like filmmakers who have no resources to hire a cinematographer and so they must learn photograpy, composition, lenses, depth of field, lighting.
 
 And we are not even talking about distribution yet - or anyone seeing the film.
-
----
-
-I must learn how to make my work look pleasing to engage with. How else is anyone going to enjoy using my software / web app / or even reading my website?
-
-There is subjectivity involved, and all kinds of intangibles. But that is the nature of designing anything.
 
 Not only must I have the technical skills to implement my ideas ( CSS coding skills - e.g., flexbox, positional layout tools, grid, styling solutions like Emotion or CSS Modules, etc ) but I also must have the design skills to come up with something interesting, also.
 
@@ -102,7 +94,7 @@ I do not subscribe to the left brain / right brain myth. I believe that I can ge
 
 Luckily, there is help if I look around enough. Josh's [course](https://css-for-js.dev/) is one source that I have already mentioned.
 
-There is also the help and inspiration that comes from viewing interesting and beautiful websites and web apps from various companies and individuals around the world.
+There is the help and inspiration that comes from viewing interesting and beautiful websites and web apps from various companies and individuals around the world.
 
 I have also gotten ideas from work that I have found on [CodePen](https://codepen.io/) - some of it so ingenious and beautiful that is rises to the level of digital fine art. And the source code can be looked at and studied **for free**.
 

@@ -30,9 +30,9 @@ Somehow he has acquired design skills over time.
 
 The more I learn about CSS - the more closely I look at the visual details of the components I am creating with my code - and the more I separate it from design.
 
-Design and CSS are two different animals. One is producing in code, using markup and CSS solutions, existing ideas for the visuals of an app and/or website.
+CSS and design are two very different animals. The former is producing code for ( using any one of a huge number of CSS solutions ) existing ideas for the visuals of an app and/or website.
 
-The other is coming up with those ideas to begin with.
+The latter is coming up with those ideas to begin with.
 
 _If either one of those animals is on shaky ground . . ._
 
@@ -56,11 +56,11 @@ I have narrowed my focus to the frontend - and while I consider myself far from 
 
 Designing my personal projects is very difficult.
 
-Unlike working on a team at most companies, when I am working on my own there is no help in site. It's pretty much up to me. Sure, I could ask some friends to help me with design - but I would not learn or grow much that way.
+Unlike working on a team at most companies, when I am working on my own there is no help in sight. It's pretty much up to me. Sure, I could ask some friends to help me with design - but I would not learn or grow much that way.
 
 I would rather develop my own instincts and intuition. So, I struggle through it.
 
-I am not particularly interested in cloning other apps or websites at this point. Sometimes, I do a limited number of tutorials from effective online educators - but for the most part, I want to implent my own ideas when I spend time coding - for several reasons.
+I am not particularly interested in cloning other apps or websites. Sometimes, I do a limited number of tutorials from effective online educators - but for the most part, I want to implent my own ideas when I spend time coding - for several reasons.
 
 For one thing, any work that I generate I want to be able to use myself in a practical way. Secondly, I want to be able to show the work to potential employers. And the idea of showing an Instagram clone does not sound good to me. It would indeed be a worthwhile learning exercise - but I want something more than that from the projects that I work on.
 
@@ -86,7 +86,7 @@ Solo devs are like filmmakers who have no resources to hire a cinematographer an
 
 And we are not even talking about distribution yet - or anyone seeing the film.
 
-Not only must I have the technical skills to implement my ideas ( CSS coding skills - e.g., flexbox, positional layout tools, grid, styling solutions like Emotion or CSS Modules, etc ) but I also must have the design skills to come up with something interesting, also.
+Not only must I have the technical skills to implement my ideas ( CSS coding skills - e.g., flexbox, positional layout tools, grid, styling solutions like Emotion or CSS Modules, etc ) but I also must have the design skills to come up with something interesting.
 
 These are conflicts in the brain. All kinds of programming logic in building a UI with React, plus things like deployment skills, churning out ideas for an interesting app, and making it look engaging and professional - technically and conceptually.
 
@@ -98,7 +98,7 @@ There is the help and inspiration that comes from viewing interesting and beauti
 
 I have also gotten ideas from work that I have found on [CodePen](https://codepen.io/) - some of it so ingenious and beautiful that is rises to the level of digital fine art. And the source code can be looked at and studied **for free**.
 
-**It is a process.**
+It is a process.
 
 As [Kent C. Dodds](https://kentcdodds.com/) has written about in a terrific blog [post](https://kentcdodds.com/blog/solidifying-what-you-learn) of his:
 

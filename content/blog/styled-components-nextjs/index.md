@@ -1,10 +1,10 @@
 ---
-title: "Styled-components in a Next.js project 🛠️"
+title: "Styled-components in Next.js 11 🛠️"
 date: "2021-10-06"
-description: "How to setup a Next.js project for styled-components 🔧"
+description: "How to setup a Next.js 11 project for styled-components 🔧"
 ---
 
-Lately, for personal projects, I have been using **Next.js** 🚀
+Lately, for personal projects, I have been using **Next.js 11** 🚀
 
 The developer experience is awesome 🤓
 
@@ -106,6 +106,6 @@ We can choose to still use `styles/globabls.css` and keep the related import ins
 
 I have used both options and it is simply a matter of preference ⭐
 
-Hope this article helps you when using **styled-components** with _Next.js_! 💯
+Hope this article helps you when using **styled-components** with _Next.js 11_! 💯
 
 ![SourceCode from Undraw](./undraw_Source_code.png)
